@@ -1,0 +1,34 @@
+.App {
+  margin-top: 60px;
+}
+
+.Table-margin {
+  margin-top: 60px,
+}
+
+.alignButton{
+  margin-bottom:30px;
+  
+}
+
+.App-title {
+  font-size: 27px;
+}
+
+
+.messageMargin {
+  margin-top: '20px';
+}
+
+
+.message {
+  color:blue;
+}
+
+.error {
+  color: red;
+}
+
+.load {
+  color: green;
+}
